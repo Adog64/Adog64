@@ -18,3 +18,7 @@
 - My favorite is Python (by far)
 - I know my way around C#, Java, Visual Basic, and C++
 - I'm currently learning React JS, React Native, and Rust
+
+
+https://user-images.githubusercontent.com/33038791/174557756-6123abd1-ee02-4a8b-ab1d-857d38afadfe.mp4
+
