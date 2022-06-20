@@ -8,7 +8,10 @@
 - Most of what's here is done in my spare time for fun
 - For Mac/Windows users, some of my code may not work for you since I do a lot of my work from ZorinOS
 
-### 📱Check out Lotus Mobile! 
+### 📱Check out Lotus Mobile!
+<p align="left"> 
+    <a href="https://github.com/Adog64/Lotus-Mobile"><img src="https://github.com/Adog64/Adog64/blob/main/LotusTimerLogo.png"/></a>
+</p>
 - A Rubik's Cube timer for android
 - Lotus Mobile is my most fleshed-out project to date
 
