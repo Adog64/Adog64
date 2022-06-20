@@ -1,5 +1,5 @@
 # Welcome to Adog64's GitHub page! 
-<p align="center"> 
+### Connect with me on LinkedIn: <p align="center"?>
     <a href="https://www.linkedin.com/in/aidan-sharpe-b86955224/"><img src="https://github.com/Adog64/Adog64/blob/main/LinkedInLogo.png"/></a>
 </p>
 
