@@ -1,7 +1,7 @@
 # Welcome to Adog64's GitHub page!
 
 ### 😎 Socials
-- LinkedIn: https://www.linkedin.com/in/aidan-sharpe-b86955224/
+- <img src="https://github.com/Adog64/Adog64/blob/main/LinkedInLogo.png"/>LinkedIn: https://www.linkedin.com/in/aidan-sharpe-b86955224/
 - Discord: Adog64#0330
 - Any GNOME projects that I am working on contributing to are here: https://gitlab.gnome.org/Adog64
 
