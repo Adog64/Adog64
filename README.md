@@ -12,6 +12,7 @@
 
 ### Check out Lotus Mobile!
 <p align="left"><a href="https://github.com/Adog64/Lotus-Mobile"><img src="https://github.com/Adog64/Adog64/blob/main/LotusTimerLogo.png"/></a></p>
+
 - A Rubik's Cube timer for android
 - Lotus Mobile is my most fleshed-out project to date
 
