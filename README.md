@@ -13,7 +13,8 @@
 - Lotus Mobile is my most fleshed-out project to date
 <p align="left"><a href="https://github.com/Adog64/Lotus-Mobile"><img src="https://github.com/Adog64/Adog64/blob/main/LotusTimerLogo.png"/></a></p>
 
+
 ### 🤖 Language Knowledge
 - My favorite is Python (by far)
 - I know my way around C#, Java, Visual Basic, and C++
-- I'm currently learning React JS, and Rust
+- I'm currently learning React JS, React Native, and Rust
