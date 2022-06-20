@@ -1,7 +1,5 @@
 # Welcome to Adog64's GitHub page!
-
-### Connect with me on LinkedIn:
-<p align="left"?>
+<p align="center"?>
     <a href="https://www.linkedin.com/in/aidan-sharpe-b86955224/"><img src="https://github.com/Adog64/Adog64/blob/main/LinkedInLogo.png"/></a>
 </p>
 
@@ -11,10 +9,9 @@
 - For Mac/Windows users, some of my code may not work for you since I do a lot of my work from ZorinOS
 
 ### Check out Lotus Mobile!
-<p align="left"><a href="https://github.com/Adog64/Lotus-Mobile"><img src="https://github.com/Adog64/Adog64/blob/main/LotusTimerLogo.png"/></a></p>
-
 - A Rubik's Cube timer for android
 - Lotus Mobile is my most fleshed-out project to date
+<p align="left"><a href="https://github.com/Adog64/Lotus-Mobile"><img src="https://github.com/Adog64/Adog64/blob/main/LotusTimerLogo.png"/></a></p>
 
 ### 🤖 Language Knowledge
 - My favorite is Python (by far)
