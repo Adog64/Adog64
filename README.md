@@ -15,7 +15,7 @@
 
 
 ### Language Knowledge
-- My favorite is Python (by far)
+- My favorite is Python, but C is pretty darn cool and wicked fast!
 - I know my way around C#, Java, Visual Basic, and C++
 - I'm currently learning React JS and Rust
 
